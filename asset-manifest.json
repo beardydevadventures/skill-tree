@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/skill-tree/static/css/main.c7bbacc7.chunk.css",
+    "main.js": "/skill-tree/static/js/main.75ae9a64.chunk.js",
+    "main.js.map": "/skill-tree/static/js/main.75ae9a64.chunk.js.map",
+    "runtime-main.js": "/skill-tree/static/js/runtime-main.517b063c.js",
+    "runtime-main.js.map": "/skill-tree/static/js/runtime-main.517b063c.js.map",
+    "static/css/2.86738a03.chunk.css": "/skill-tree/static/css/2.86738a03.chunk.css",
+    "static/js/2.05bc8ac1.chunk.js": "/skill-tree/static/js/2.05bc8ac1.chunk.js",
+    "static/js/2.05bc8ac1.chunk.js.map": "/skill-tree/static/js/2.05bc8ac1.chunk.js.map",
+    "index.html": "/skill-tree/index.html",
+    "precache-manifest.c456bb40b40db7cdf1bee588dd6f9258.js": "/skill-tree/precache-manifest.c456bb40b40db7cdf1bee588dd6f9258.js",
+    "service-worker.js": "/skill-tree/service-worker.js",
+    "static/css/2.86738a03.chunk.css.map": "/skill-tree/static/css/2.86738a03.chunk.css.map",
+    "static/css/main.c7bbacc7.chunk.css.map": "/skill-tree/static/css/main.c7bbacc7.chunk.css.map",
+    "static/js/2.05bc8ac1.chunk.js.LICENSE.txt": "/skill-tree/static/js/2.05bc8ac1.chunk.js.LICENSE.txt",
+    "static/media/css.png": "/skill-tree/static/media/css.6013be94.png",
+    "static/media/jquery.png": "/skill-tree/static/media/jquery.4347ca41.png",
+    "static/media/logo.svg": "/skill-tree/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.517b063c.js",
+    "static/css/2.86738a03.chunk.css",
+    "static/js/2.05bc8ac1.chunk.js",
+    "static/css/main.c7bbacc7.chunk.css",
+    "static/js/main.75ae9a64.chunk.js"
+  ]
+}
